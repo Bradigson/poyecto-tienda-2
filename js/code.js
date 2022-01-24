@@ -36,10 +36,15 @@ const allArticles = (items)=>{
     Template.querySelector('.sdd').textContent = `${'SDD : '}${items.descripcion.sdd}`;
     Template.querySelector('.hdd').textContent = `${'HDD : '}${items.descripcion.hdd}`;
     Template.querySelector('.windows').textContent = `${'Windows : '}${items.descripcion.windows}`;
+
+    
+    
     const clone = Template.cloneNode(true);
     Fragment.appendChild(clone)
     Tienda.appendChild(Fragment);
     
     
 
+    
 }
+
