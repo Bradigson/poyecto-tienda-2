@@ -1,0 +1,80 @@
+[
+    {
+        "id" : 1,
+        "img" : "https://www.lenovo.com/medias/lenovo-desktop-legion-tower-7i-hero.png?context=bWFzdGVyfHJvb3R8MzEwNzMxfGltYWdlL3BuZ3xoMDQvaDg4LzExMDE2NzEyNzgxODU0LnBuZ3w4YTQzODI1MmY2NGVhMzU0N2E2MzZiYzc1NTlkOTdjZWI4MzFmODY0Nzc5OWRmMWZhMWZlZGVlNDlkZDQ2OTIw",
+        "equipo" : "LapTop",
+        "marca" : "Lenovo",
+        "modelo" : "Lenovo Legion T7",
+        "precio" : 98800,
+        "descripcion" :
+            {
+                "intel" : "Core i7 10th Gen",
+                "ram" : "16 GB",
+                "sdd" : "1TB",
+                "hdd" : "2TB",
+                "windows" : 10
+
+            }
+        
+    },
+    {
+        "id" : 2,
+        "img" : "https://www.lenovo.com/medias/lenovo-laptop-ideapad-1-14-intel-hero-1-.png?context=bWFzdGVyfHJvb3R8MjQ2MTgyfGltYWdlL3BuZ3xoNmIvaDQ3LzEwNzk1MzgzNzE3OTE4LnBuZ3xlODEwNTI2NTUwM2U4NGI3NzQ0MWExMzE0MmQ0ODQ4ZThkODNiNzE2NjQwMDBmYTJkNGMwOGJlMmZmMjhjYjQx",
+        "equipo" : "LapTop",
+        "marca" : "Lenovo",
+        "modelo" : "Lenovo IdealPad 1 14IGL05",
+        "precio" : 2100,
+        "descripcion" :
+            {
+                "intel" : "Intel Pentium Sliver",
+                "ram" : "4 GB",
+                "sdd" : "128 GB",
+                "hdd" : "1TB",
+                "windows" : 10
+
+            }
+        
+    }
+
+
+    ,
+    {
+        "id" : 3,
+        "img" : "https://www.pcexpansion.es/img/img_prod/pcexpansion/15/Notebook-Asus-Vivobook-A543ub-Gq1047t.jpg",
+        "equipo" : "LapTop",
+        "marca" : "Asus",
+        "modelo" : "Asus VivoBook F415EA-UB4",
+        "precio" : 29500,
+        "descripcion" :
+            {
+                "intel" : "Inter Core i3 11va Gen",
+                "ram" : "8 GB",
+                "sdd" : "128 GB",
+                "hdd" : "-",
+                "windows" : 10
+
+            }
+        
+    }
+
+    ,
+    {
+        "id" : 4,
+        "img" : "https://2.bp.blogspot.com/-1EZ5VhElF4I/XxKSKyzimBI/AAAAAAAACYw/gmsSFEBArI0yMNcbNWygCYtAdRO01DLuACPcBGAYYCw/s1600/Lenovo%2BIdeaPad%2B3%2B15IIL05.jpg",
+        "equipo" : "LapTop",
+        "marca" : "Lnovo",
+        "modelo" : "Lenovo IdealPad 3 15IIL05",
+        "precio" : 26900,
+        "descripcion" :
+            {
+                "intel" : "Inter Core i3 10th Gen",
+                "ram" : "4 GB",
+                "sdd" : "128 GB",
+                "hdd" : "-",
+                "windows" : 10
+
+            }
+        
+    }
+    
+]
