@@ -76,5 +76,403 @@
             }
         
     }
+
+    ,
+    {
+        "id" : 5,
+        "img" : "https://m.media-amazon.com/images/I/711oGI+ygML._AC_SL1500_.jpg",
+        "equipo" : "LapTop",
+        "marca" : "Asus",
+        "modelo" : "Asus FX505DD-RB71-CB",
+        "precio" : 489000,
+        "descripcion" :
+            {
+                "intel" : "Ryzen 7",
+                "ram" : "8 GB",
+                "sdd" : "--",
+                "hdd" : "1tb",
+                "windows" : 10
+
+            }
+        
+    }
+
+
+    ,
+    {
+        "id" : 6,
+        "img" : "https://outletclick.com/media/catalog/product/cache/15/image/1800x/040ec09b1e35df139433887a97daa66f/8/1/81we00mlge_1.jpg",
+        "equipo" : "LapTop",
+        "marca" : "Lenovo",
+        "modelo" : "Lenovo 3 15IIL05",
+        "precio" : 31900,
+        "descripcion" :
+            {
+                "intel" : "Core i3 10th Gen",
+                "ram" : "8 GB",
+                "sdd" : "--",
+                "hdd" : "1TB",
+                "windows" : 10
+
+            }
+        
+    }
+
+
+    ,
+    {
+        "id" : 7,
+        "img" : "https://www.notebookcheck.org/uploads/tx_nbc2/LenovoIdeaPad3-15ITL6__1_.jpg",
+        "equipo" : "LapTop",
+        "marca" : "Lenovo",
+        "modelo" : "Lenovo 3 15ITL06",
+        "precio" : 32900,
+        "descripcion" :
+            {
+                "intel" : "Inter Core i3 11va Gen",
+                "ram" : "8 GB",
+                "sdd" : "--",
+                "hdd" : "1TB",
+                "windows" : 10
+
+            }
+        
+    }
+
+
+    ,
+    {
+        "id" : 8,
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfMTFaGq7y0sKGfCD7rlNYym13MI8j-wAdRg&usqp=CAU",
+        "equipo" : "LapTop",
+        "marca" : "Lenovo",
+        "modelo" : "Lenovo 3 15ITL05",
+        "precio" : 27900,
+        "descripcion" :
+            {
+                "intel" : "Inter Core i3 11th Gen",
+                "ram" : "4 GB",
+                "sdd" : "128 GB",
+                "hdd" : "--",
+                "windows" : 10
+
+            }
+        
+    }
+
+
+    ,
+    {
+        "id" : 9,
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT3BeVjEiccUuxnR-QB2jAiHzeQz5e2kEhXspo0-Nn3TO_WHJr9_vO5-xS_aAoHdcRjsE&usqp=CAU",
+        "equipo" : "LapTop",
+        "marca" : "Lenovo",
+        "modelo" : "Lenovo 3 15IIL05",
+        "precio" : 31900,
+        "descripcion" :
+            {
+                "intel" : "Core i3 10th Gen",
+                "ram" : "8 GB",
+                "sdd" : "--",
+                "hdd" : "1TB",
+                "windows" : 10
+
+            }
+        
+    }
+
+
+    ,
+    {
+        "id" : 10,
+        "img" : "https://cdn.kelaptop.com/img/gallery_mediums/80422172_2766492824.jpg",
+        "equipo" : "LapTop",
+        "marca" : "Lenovo",
+        "modelo" : "Lenovo Legion 5 17ARH05H",
+        "precio" : 76500,
+        "descripcion" :
+            {
+                "intel" : "Ryzen",
+                "ram" : "16 GB",
+                "sdd" : "512 GB",
+                "hdd" : "-",
+                "windows" : 10
+
+            }
+        
+    }
+
+
+    ,
+    {
+        "id" : 4,
+        "img" : "https://p1-ofp.static.pub/medias/bWFzdGVyfHJvb3R8MTI0MTAzfGltYWdlL3BuZ3xoMzMvaDBlLzExMzcyNDk3NzMxNjE0LnBuZ3xjYjA5OTIwZTg1ZjU4MDM2ZWU5MzQ4NDk2NTBjMjg4NDhjY2JjYzg0YmQyZWJlNDdkZTUxNzhiMTkzNzFkYTQ0/lenovo-laptop-gaming-legion-5-pro-16in-amd-gallery-7.png",
+        "equipo" : "LapTop",
+        "marca" : "Lenovo",
+        "modelo" : "Lenovo Legion 5 Pro",
+        "precio" : 84700,
+        "descripcion" :
+            {
+                "intel" : "Inter Core i7 11va Gen",
+                "ram" : "16 GB",
+                "sdd" : "512 GB",
+                "hdd" : "--",
+                "windows" : 10
+
+            }
+        
+    }
+
+
+    ,
+    {
+        "id" : 4,
+        "img" : "https://2.bp.blogspot.com/-1EZ5VhElF4I/XxKSKyzimBI/AAAAAAAACYw/gmsSFEBArI0yMNcbNWygCYtAdRO01DLuACPcBGAYYCw/s1600/Lenovo%2BIdeaPad%2B3%2B15IIL05.jpg",
+        "equipo" : "LapTop",
+        "marca" : "Lnovo",
+        "modelo" : "Lenovo IdealPad 3 15IIL05",
+        "precio" : 26900,
+        "descripcion" :
+            {
+                "intel" : "Inter Core i3 10th Gen",
+                "ram" : "4 GB",
+                "sdd" : "128 GB",
+                "hdd" : "-",
+                "windows" : 10
+
+            }
+        
+    }
+
+
+    ,
+    {
+        "id" : 4,
+        "img" : "https://2.bp.blogspot.com/-1EZ5VhElF4I/XxKSKyzimBI/AAAAAAAACYw/gmsSFEBArI0yMNcbNWygCYtAdRO01DLuACPcBGAYYCw/s1600/Lenovo%2BIdeaPad%2B3%2B15IIL05.jpg",
+        "equipo" : "LapTop",
+        "marca" : "Lnovo",
+        "modelo" : "Lenovo IdealPad 3 15IIL05",
+        "precio" : 26900,
+        "descripcion" :
+            {
+                "intel" : "Inter Core i3 10th Gen",
+                "ram" : "4 GB",
+                "sdd" : "128 GB",
+                "hdd" : "-",
+                "windows" : 10
+
+            }
+        
+    }
+
+
+    ,
+    {
+        "id" : 4,
+        "img" : "https://2.bp.blogspot.com/-1EZ5VhElF4I/XxKSKyzimBI/AAAAAAAACYw/gmsSFEBArI0yMNcbNWygCYtAdRO01DLuACPcBGAYYCw/s1600/Lenovo%2BIdeaPad%2B3%2B15IIL05.jpg",
+        "equipo" : "LapTop",
+        "marca" : "Lnovo",
+        "modelo" : "Lenovo IdealPad 3 15IIL05",
+        "precio" : 26900,
+        "descripcion" :
+            {
+                "intel" : "Inter Core i3 10th Gen",
+                "ram" : "4 GB",
+                "sdd" : "128 GB",
+                "hdd" : "-",
+                "windows" : 10
+
+            }
+        
+    }
+
+
+    ,
+    {
+        "id" : 4,
+        "img" : "https://2.bp.blogspot.com/-1EZ5VhElF4I/XxKSKyzimBI/AAAAAAAACYw/gmsSFEBArI0yMNcbNWygCYtAdRO01DLuACPcBGAYYCw/s1600/Lenovo%2BIdeaPad%2B3%2B15IIL05.jpg",
+        "equipo" : "LapTop",
+        "marca" : "Lnovo",
+        "modelo" : "Lenovo IdealPad 3 15IIL05",
+        "precio" : 26900,
+        "descripcion" :
+            {
+                "intel" : "Inter Core i3 10th Gen",
+                "ram" : "4 GB",
+                "sdd" : "128 GB",
+                "hdd" : "-",
+                "windows" : 10
+
+            }
+        
+    }
+
+
+    ,
+    {
+        "id" : 4,
+        "img" : "https://2.bp.blogspot.com/-1EZ5VhElF4I/XxKSKyzimBI/AAAAAAAACYw/gmsSFEBArI0yMNcbNWygCYtAdRO01DLuACPcBGAYYCw/s1600/Lenovo%2BIdeaPad%2B3%2B15IIL05.jpg",
+        "equipo" : "LapTop",
+        "marca" : "Lnovo",
+        "modelo" : "Lenovo IdealPad 3 15IIL05",
+        "precio" : 26900,
+        "descripcion" :
+            {
+                "intel" : "Inter Core i3 10th Gen",
+                "ram" : "4 GB",
+                "sdd" : "128 GB",
+                "hdd" : "-",
+                "windows" : 10
+
+            }
+        
+    }
+
+
+    ,
+    {
+        "id" : 4,
+        "img" : "https://2.bp.blogspot.com/-1EZ5VhElF4I/XxKSKyzimBI/AAAAAAAACYw/gmsSFEBArI0yMNcbNWygCYtAdRO01DLuACPcBGAYYCw/s1600/Lenovo%2BIdeaPad%2B3%2B15IIL05.jpg",
+        "equipo" : "LapTop",
+        "marca" : "Lnovo",
+        "modelo" : "Lenovo IdealPad 3 15IIL05",
+        "precio" : 26900,
+        "descripcion" :
+            {
+                "intel" : "Inter Core i3 10th Gen",
+                "ram" : "4 GB",
+                "sdd" : "128 GB",
+                "hdd" : "-",
+                "windows" : 10
+
+            }
+        
+    }
+
+
+    ,
+    {
+        "id" : 4,
+        "img" : "https://2.bp.blogspot.com/-1EZ5VhElF4I/XxKSKyzimBI/AAAAAAAACYw/gmsSFEBArI0yMNcbNWygCYtAdRO01DLuACPcBGAYYCw/s1600/Lenovo%2BIdeaPad%2B3%2B15IIL05.jpg",
+        "equipo" : "LapTop",
+        "marca" : "Lnovo",
+        "modelo" : "Lenovo IdealPad 3 15IIL05",
+        "precio" : 26900,
+        "descripcion" :
+            {
+                "intel" : "Inter Core i3 10th Gen",
+                "ram" : "4 GB",
+                "sdd" : "128 GB",
+                "hdd" : "-",
+                "windows" : 10
+
+            }
+        
+    }
+
+    ,
+    {
+        "id" : 4,
+        "img" : "https://2.bp.blogspot.com/-1EZ5VhElF4I/XxKSKyzimBI/AAAAAAAACYw/gmsSFEBArI0yMNcbNWygCYtAdRO01DLuACPcBGAYYCw/s1600/Lenovo%2BIdeaPad%2B3%2B15IIL05.jpg",
+        "equipo" : "LapTop",
+        "marca" : "Lnovo",
+        "modelo" : "Lenovo IdealPad 3 15IIL05",
+        "precio" : 26900,
+        "descripcion" :
+            {
+                "intel" : "Inter Core i3 10th Gen",
+                "ram" : "4 GB",
+                "sdd" : "128 GB",
+                "hdd" : "-",
+                "windows" : 10
+
+            }
+        
+    }
+
+    ,
+    {
+        "id" : 4,
+        "img" : "https://2.bp.blogspot.com/-1EZ5VhElF4I/XxKSKyzimBI/AAAAAAAACYw/gmsSFEBArI0yMNcbNWygCYtAdRO01DLuACPcBGAYYCw/s1600/Lenovo%2BIdeaPad%2B3%2B15IIL05.jpg",
+        "equipo" : "LapTop",
+        "marca" : "Lnovo",
+        "modelo" : "Lenovo IdealPad 3 15IIL05",
+        "precio" : 26900,
+        "descripcion" :
+            {
+                "intel" : "Inter Core i3 10th Gen",
+                "ram" : "4 GB",
+                "sdd" : "128 GB",
+                "hdd" : "-",
+                "windows" : 10
+
+            }
+        
+    }
+
+
+
+    ,
+    {
+        "id" : 4,
+        "img" : "https://2.bp.blogspot.com/-1EZ5VhElF4I/XxKSKyzimBI/AAAAAAAACYw/gmsSFEBArI0yMNcbNWygCYtAdRO01DLuACPcBGAYYCw/s1600/Lenovo%2BIdeaPad%2B3%2B15IIL05.jpg",
+        "equipo" : "LapTop",
+        "marca" : "Lnovo",
+        "modelo" : "Lenovo IdealPad 3 15IIL05",
+        "precio" : 26900,
+        "descripcion" :
+            {
+                "intel" : "Inter Core i3 10th Gen",
+                "ram" : "4 GB",
+                "sdd" : "128 GB",
+                "hdd" : "-",
+                "windows" : 10
+
+            }
+        
+    }
+
+
+    ,
+    {
+        "id" : 4,
+        "img" : "https://2.bp.blogspot.com/-1EZ5VhElF4I/XxKSKyzimBI/AAAAAAAACYw/gmsSFEBArI0yMNcbNWygCYtAdRO01DLuACPcBGAYYCw/s1600/Lenovo%2BIdeaPad%2B3%2B15IIL05.jpg",
+        "equipo" : "LapTop",
+        "marca" : "Lnovo",
+        "modelo" : "Lenovo IdealPad 3 15IIL05",
+        "precio" : 26900,
+        "descripcion" :
+            {
+                "intel" : "Inter Core i3 10th Gen",
+                "ram" : "4 GB",
+                "sdd" : "128 GB",
+                "hdd" : "-",
+                "windows" : 10
+
+            }
+        
+    }
+
+
+    ,
+    {
+        "id" : 4,
+        "img" : "https://2.bp.blogspot.com/-1EZ5VhElF4I/XxKSKyzimBI/AAAAAAAACYw/gmsSFEBArI0yMNcbNWygCYtAdRO01DLuACPcBGAYYCw/s1600/Lenovo%2BIdeaPad%2B3%2B15IIL05.jpg",
+        "equipo" : "LapTop",
+        "marca" : "Lnovo",
+        "modelo" : "Lenovo IdealPad 3 15IIL05",
+        "precio" : 26900,
+        "descripcion" :
+            {
+                "intel" : "Inter Core i3 10th Gen",
+                "ram" : "4 GB",
+                "sdd" : "128 GB",
+                "hdd" : "-",
+                "windows" : 10
+
+            }
+        
+    }
+
     
 ]
